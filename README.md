@@ -1,3 +1,5 @@
+## ALUNOS: JOÃO GABRIEL MELO ALBUQUERQUE e PEDRO FREIRE
+
 # Estudo de Estruturas de Dados
 
 Este repositório dedica-se ao estudo e à implementação de estruturas de dados fundamentais, com ênfase em Listas Encadeadas,listas Ordenadas e Árvores Binárias.  O objetivo principal deste projeto é a compreensão do funcionamento dessas estruturas.
