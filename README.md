@@ -10,6 +10,7 @@ Este repositório dedica-se ao estudo e à implementação de estruturas de dado
   - [Listas Ordenadas](#listas-ordenadas)
   - [Árvores Binárias](#arvores-binarias)
 - [Guia de Contribuição](#guia-de-contribuição)
+- [Referência](#referencias)
 
 
 ## Como Usar
@@ -55,4 +56,8 @@ Contribuições são bem-vindas! Se você gostaria de ajudar a melhorar o projet
 
    ```bash
    git clone https://git@github.com:peddrofreire/EstruturaDeDados.git
+```
 
+### Referências
+  -Apostila UDF.
+  -Auxilio da Inteligencia Artificial para comentarios e para a fixação melhor da materia.
